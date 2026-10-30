@@ -53,3 +53,11 @@
 
 - v2 由 Markdown 经 pandoc 生成，使用原 docx 作为样式模板，因此字体、标题、页眉（已更新为新标题）、页脚页码与原稿一致。公式以 Word 原生 OMML 写入，在 Word 中正常显示；本环境的 LibreOffice 渲染缺少数学字体，预览 PDF 中公式位置会显示为空白，原稿 docx 在同一环境下也是如此，并非文件问题。
 - 没有使用 Word 修订模式：改动是整体重写，逐句 redline 不可读；本说明即为变更记录。
+
+## 6. Grill 第一轮后的改动（2026-10-30，作者决定）
+
+1. 样本：明确写成两个样本。主样本 2014–2018 ≥3 篇（干净 pre-period，承担识别主张）；第二样本沿用原定义 2018–2021 ≥2 篇，纳入 2018 年后入行的学者，服务 H4 的 career-stage 检验，但不承担识别主张。
+2. 总效应：作者确认方法梯度足够。删除正文与 (K) 中的锚定总效应展示；Appendix A2 只保留一句 “不作总效应声称”。
+3. AI referee score（Lu, Luo & Yu 2026）：按作者要求删除，参考文献同步删除。
+4. 目标期刊：作者要求 FT50。(K) 改为 Management Science 首选（唯一跨领域 FT50 出口）；金融备选 JFE/RFS/JFQA/Review of Finance；会计 companion 改为 Contemporary Accounting Research（FT50），删除 Accounting Horizons；JF 标注为不现实。
+5. 合作者 ask：作者暂不写，整段删除；正文仍用 “we”。
